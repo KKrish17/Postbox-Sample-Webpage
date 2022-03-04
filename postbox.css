@@ -1,0 +1,125 @@
+#sign{
+	background-color:#80808024;
+	padding-bottom:6.7ch;
+	padding-top:4.7ch;
+	margin-top:-7px;
+	margin-left:-4px;
+	margin-right:-7px;
+}
+#bod{
+	height:510px;
+    margin-top: -10px;
+}
+#sign .signup{
+	border:1px solid red;
+	float:right;
+	padding:8px 12px;
+	margin-top:-10px;
+	margin-right:50px;
+	background-color:#de0f0f;
+	color:white;
+	font-size:15px;
+	font-family:calibri;
+}
+#bod .fst{
+	width:60%;
+	float:left;
+}
+#bod .lst{
+	width:32%;
+	float:right;
+}
+#bod .fst .ork{
+	margin-left:5.7ch;
+	margin-top:13px;
+}
+#bod .fst .parts{
+	margin-left:27ch;
+	margin-top:4ch;
+}
+#bod .fst .parts{
+    margin-top: -10px;
+}
+#bod .fst .parts .tex{
+	font-size:28px;
+	font-family:calibri;
+	margin-top:12px;
+    color: firebrick;
+}
+#bod .fst .parts .stex{
+	font-size:18px;
+	font-family:calibri;
+	margin-top:4px;
+}
+#bod .lst{
+	border:1px solid #80808024;
+	height:43.4ch;
+	width:51ch;
+	margin-right:40px;
+	margin-top:90px;
+    border-radius: 15px;
+	background-color:#80808024;
+}
+#bod .lst .signin{
+	font-family:calibri;
+	font-size:26px;
+	margin-left:27px;
+	margin-top:18px;
+}
+#bod .lst .email{
+	font-family:calibri;
+	margin-top:16px;
+	font-size:20px;
+	margin-left:27px;
+}
+#bod .lst .email .emailbox{
+	border:1px solid #80808085;
+    border-radius: 8px;
+	font-size:18px;
+	height:30px;
+	width:34ch;
+	margin-top:7px;
+	padding-left:8px;
+}
+#bod .lst .pass{
+	font-family:calibri;
+	margin-top:16px;
+	font-size:20px;
+	margin-left:27px;
+}
+#bod .lst .pass .passbox{
+	border:1px solid #80808085;
+    border-radius: 8px;
+	font-size:18px;
+	height:30px;
+	width:34ch;
+	padding-left:8px;
+	margin-top:7px;
+}
+#bod .lst .signi1 .sign1box{
+	border:1px solid #2970f3ed;
+	background-color:#2970f3ed;
+	height:33px;
+	width:70px;
+	color:white;
+	font-size:17px;
+	font-family:calibri;
+	margin-top:22px;
+	margin-left:27px;
+}
+#bod .lst .forget{
+	margin-left:27px;
+	margin-top:21px;
+	font-family:calibri;
+	font-size:18px;
+}
+.footer{
+	width:99%;
+	word-spacing:2px;
+	font-size:18px;
+	text-align:center;
+	height:28px;
+	position:fixed;
+	bottom:0;
+	background-color:yellow;
+}

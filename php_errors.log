@@ -1,0 +1,584 @@
+[19-Jul-2019 14:50:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'postbox' in C:\Apache24\htdocs\postbox\config1.php on line 6
+[19-Jul-2019 14:50:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\postbox1.php on line 12
+[19-Jul-2019 14:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 13
+[19-Jul-2019 14:50:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 16
+[19-Jul-2019 14:54:54 UTC] PHP Notice:  Undefined index: ID in C:\Apache24\htdocs\postbox\welcome.php on line 9
+[19-Jul-2019 14:54:54 UTC] PHP Notice:  Undefined index: first in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[19-Jul-2019 14:54:54 UTC] PHP Notice:  Undefined index: last in C:\Apache24\htdocs\postbox\welcome.php on line 12
+[19-Jul-2019 14:54:54 UTC] PHP Notice:  Undefined index: dob in C:\Apache24\htdocs\postbox\welcome.php on line 15
+[19-Jul-2019 14:54:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:54:54 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 14:54:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\postbox\welcome.php on line 166
+[19-Jul-2019 14:54:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 168
+[19-Jul-2019 14:54:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 170
+[19-Jul-2019 14:55:45 UTC] PHP Notice:  Undefined index: first in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[19-Jul-2019 14:55:45 UTC] PHP Notice:  Undefined index: last in C:\Apache24\htdocs\postbox\welcome.php on line 12
+[19-Jul-2019 14:55:45 UTC] PHP Notice:  Undefined index: dob in C:\Apache24\htdocs\postbox\welcome.php on line 15
+[19-Jul-2019 14:55:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:55:45 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 14:55:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\postbox\welcome.php on line 166
+[19-Jul-2019 14:55:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 168
+[19-Jul-2019 14:55:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 170
+[19-Jul-2019 14:55:52 UTC] PHP Notice:  Undefined index: first in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[19-Jul-2019 14:55:52 UTC] PHP Notice:  Undefined index: last in C:\Apache24\htdocs\postbox\welcome.php on line 12
+[19-Jul-2019 14:55:52 UTC] PHP Notice:  Undefined index: dob in C:\Apache24\htdocs\postbox\welcome.php on line 15
+[19-Jul-2019 14:55:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:55:52 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 14:55:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\postbox\welcome.php on line 166
+[19-Jul-2019 14:55:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 168
+[19-Jul-2019 14:55:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 170
+[19-Jul-2019 14:55:57 UTC] PHP Notice:  Undefined index: first in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[19-Jul-2019 14:55:57 UTC] PHP Notice:  Undefined index: last in C:\Apache24\htdocs\postbox\welcome.php on line 12
+[19-Jul-2019 14:55:57 UTC] PHP Notice:  Undefined index: dob in C:\Apache24\htdocs\postbox\welcome.php on line 15
+[19-Jul-2019 14:55:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:55:57 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 14:55:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\postbox\welcome.php on line 166
+[19-Jul-2019 14:55:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 168
+[19-Jul-2019 14:55:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 170
+[19-Jul-2019 14:58:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:58:30 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 14:58:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\postbox\welcome.php on line 166
+[19-Jul-2019 14:58:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 168
+[19-Jul-2019 14:58:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 170
+[19-Jul-2019 14:59:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:59:41 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 14:59:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[19-Jul-2019 14:59:48 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 15:02:38 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 15:03:34 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 15:03:34 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 129
+[19-Jul-2019 15:03:34 UTC] PHP Notice:  Undefined index: content in C:\Apache24\htdocs\postbox\welcome.php on line 133
+[19-Jul-2019 15:05:17 UTC] PHP Notice:  Undefined index: prof_pic in C:\Apache24\htdocs\postbox\welcome.php on line 74
+[19-Jul-2019 15:05:17 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 129
+[19-Jul-2019 15:06:42 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 129
+[19-Jul-2019 15:06:57 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 129
+[19-Jul-2019 15:07:25 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 129
+[19-Jul-2019 15:07:50 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 129
+[19-Jul-2019 15:08:18 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 124
+[19-Jul-2019 15:08:38 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 124
+[19-Jul-2019 15:08:41 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 124
+[19-Jul-2019 15:08:57 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 124
+[19-Jul-2019 15:09:06 UTC] PHP Notice:  Undefined index: prof_pi in C:\Apache24\htdocs\postbox\welcome.php on line 124
+[19-Jul-2019 15:17:57 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[19-Jul-2019 15:18:00 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[23-Jul-2019 11:37:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\postbox\profile.php:6
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\profile.php(6): PDO->__construct('mysql:host=127....', 'root', '')
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 6
+[23-Jul-2019 11:38:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\Apache24\htdocs\postbox\profile.php on line 34
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:56 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:56 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:56 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:56 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:38:57 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:57 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:38:57 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:10 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined index: data_made in C:\Apache24\htdocs\postbox\profile.php on line 105
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 5
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 6
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 1 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Notice:  Undefined offset: 2 in C:\Apache24\htdocs\postbox\time.php on line 7
+[23-Jul-2019 11:39:14 UTC] PHP Warning:  mktime() expects parameter 1 to be int, string given in C:\Apache24\htdocs\postbox\time.php on line 8
+[26-Jul-2019 10:30:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Apache24\htdocs\postbox\welcome.php on line 177
+[26-Jul-2019 10:31:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Apache24\htdocs\postbox\welcome.php on line 180
+[26-Jul-2019 10:31:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Apache24\htdocs\postbox\welcome.php on line 180
+[26-Jul-2019 10:31:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Apache24\htdocs\postbox\welcome.php on line 180
+[26-Jul-2019 10:32:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Apache24\htdocs\postbox\welcome.php on line 180
+[26-Jul-2019 10:34:03 UTC] PHP Notice:  Undefined index: user_id in C:\Apache24\htdocs\postbox\includes\users.php on line 12
+[26-Jul-2019 10:34:03 UTC] PHP Notice:  Undefined index: username in C:\Apache24\htdocs\postbox\includes\users.php on line 13
+[26-Jul-2019 10:34:03 UTC] PHP Notice:  Undefined index: user_id in C:\Apache24\htdocs\postbox\includes\users.php on line 12
+[26-Jul-2019 10:34:03 UTC] PHP Notice:  Undefined index: username in C:\Apache24\htdocs\postbox\includes\users.php on line 13
+[26-Jul-2019 10:40:45 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 10:40:51 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 10:50:35 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 21
+[26-Jul-2019 10:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 21
+[26-Jul-2019 10:51:07 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 21
+[26-Jul-2019 10:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 21
+[26-Jul-2019 10:51:08 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 21
+[26-Jul-2019 10:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 21
+[26-Jul-2019 10:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on string in C:\Apache24\htdocs\postbox\profile.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 22
+[26-Jul-2019 10:52:54 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 22
+[26-Jul-2019 10:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 22
+[26-Jul-2019 10:53:40 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:41 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:42 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:59 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUser() on null in C:\Apache24\htdocs\postbox\profile.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\profile.php on line 23
+[26-Jul-2019 10:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\Apache24\htdocs\postbox\app\User.php:85
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\profile.php(23): User->getUser(Object(mysqli), '1')
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 85
+[26-Jul-2019 10:55:24 UTC] PHP Notice:  Undefined index: ID in C:\Apache24\htdocs\postbox\profile.php on line 22
+[26-Jul-2019 10:55:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\Apache24\htdocs\postbox\app\User.php:85
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\profile.php(22): User->getUser(Object(mysqli), 0)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 85
+[26-Jul-2019 10:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\Apache24\htdocs\postbox\app\User.php:85
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\profile.php(22): User->getUser(Object(mysqli), 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 85
+[26-Jul-2019 10:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\Apache24\htdocs\postbox\app\User.php:85
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\profile.php(22): User->getUser(Object(mysqli), 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 85
+[26-Jul-2019 11:00:35 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Apache24\htdocs\postbox\profile.php on line 195
+[26-Jul-2019 11:02:30 UTC] PHP Notice:  Undefined variable: prof_pic in C:\Apache24\htdocs\postbox\profile.php on line 120
+[26-Jul-2019 11:02:30 UTC] PHP Notice:  Undefined variable: prof_first in C:\Apache24\htdocs\postbox\profile.php on line 123
+[26-Jul-2019 11:02:31 UTC] PHP Notice:  Undefined variable: prof_last in C:\Apache24\htdocs\postbox\profile.php on line 123
+[26-Jul-2019 11:02:31 UTC] PHP Notice:  Undefined variable: prof_email in C:\Apache24\htdocs\postbox\profile.php on line 124
+[26-Jul-2019 11:02:31 UTC] PHP Notice:  Undefined variable: prof_dob in C:\Apache24\htdocs\postbox\profile.php on line 125
+[26-Jul-2019 11:25:05 UTC] PHP Notice:  Undefined index: user_id in C:\Apache24\htdocs\postbox\postbox1.php on line 21
+[26-Jul-2019 11:25:05 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:25:05 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[26-Jul-2019 11:26:17 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:26:32 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:27:09 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:28:03 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:29:30 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:29:36 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:29:54 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:29:59 UTC] PHP Notice:  Undefined variable: _SESSION in C:\Apache24\htdocs\postbox\postbox1.php on line 22
+[26-Jul-2019 11:29:59 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:33:09 UTC] PHP Notice:  Undefined variable: user_details in C:\Apache24\htdocs\postbox\postbox1.php on line 20
+[26-Jul-2019 11:33:09 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[26-Jul-2019 11:33:37 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[26-Jul-2019 11:33:38 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[26-Jul-2019 11:33:39 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[26-Jul-2019 11:38:37 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\welcome.php on line 152
+[26-Jul-2019 11:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsername() on null in C:\Apache24\htdocs\postbox\welcome.php:152
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 152
+[26-Jul-2019 11:39:23 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Apache24\htdocs\postbox\welcome.php on line 213
+[26-Jul-2019 11:39:34 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 20
+[26-Jul-2019 11:39:42 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 20
+[26-Jul-2019 11:43:24 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Apache24\htdocs\postbox\welcome.php on line 20
+[26-Jul-2019 11:43:33 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 20
+[26-Jul-2019 11:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 20
+[26-Jul-2019 11:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Relation' not found in C:\Apache24\htdocs\postbox\welcome.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 19
+[26-Jul-2019 11:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in C:\Apache24\htdocs\postbox\welcome.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 27
+[26-Jul-2019 11:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 34
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 7
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 8
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 19
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:50:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 102
+[26-Jul-2019 11:50:11 UTC] PHP Notice:  Undefined variable: relation in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFriendsList() on null in C:\Apache24\htdocs\postbox\includes\user_friends.php:4
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(163): include_once()
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 7
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 8
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 19
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:50:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 102
+[26-Jul-2019 11:50:14 UTC] PHP Notice:  Undefined variable: relation in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFriendsList() on null in C:\Apache24\htdocs\postbox\includes\user_friends.php:4
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(163): include_once()
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 6
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 7
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 17
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:50:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:50:25 UTC] PHP Notice:  Undefined variable: relation in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFriendsList() on null in C:\Apache24\htdocs\postbox\includes\user_friends.php:4
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(162): include_once()
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 6
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 7
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 17
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:50:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:50:27 UTC] PHP Notice:  Undefined variable: relation in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFriendsList() on null in C:\Apache24\htdocs\postbox\includes\user_friends.php:4
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(162): include_once()
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 6
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 7
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 17
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 18
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:50:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:50:32 UTC] PHP Notice:  Undefined variable: relation in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFriendsList() on null in C:\Apache24\htdocs\postbox\includes\user_friends.php:4
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(162): include_once()
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 20
+[26-Jul-2019 11:51:37 UTC] PHP Warning:  array_values() expects parameter 1 to be array, string given in C:\Apache24\htdocs\postbox\welcome.php on line 27
+[26-Jul-2019 11:51:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Apache24\htdocs\postbox\welcome.php on line 27
+[26-Jul-2019 11:51:37 UTC] PHP Notice:  Undefined variable: relation in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFriendsList() on null in C:\Apache24\htdocs\postbox\includes\user_friends.php:4
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(165): include_once()
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\includes\user_friends.php on line 4
+[26-Jul-2019 11:52:11 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 28
+[26-Jul-2019 11:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(28): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 11:53:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Apache24\htdocs\postbox\welcome.php on line 27
+[26-Jul-2019 11:53:13 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:53:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(24): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 11:54:03 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:54:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(25): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 11:54:05 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(25): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 11:55:00 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in C:\Apache24\htdocs\postbox\welcome.php on line 5
+[26-Jul-2019 11:55:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:55:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:55:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:55:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:55:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:55:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:55:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:55:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:55:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:55:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:55:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:55:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:55:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:55:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:55:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:55:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:55:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:55:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:56:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:56:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:56:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:56:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:56:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:56:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:56:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:56:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:56:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:56:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:56:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:56:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:56:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:56:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:56:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:56:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:56:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:56:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:56:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:56:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:56:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:56:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:56:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:56:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:56:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 10
+[26-Jul-2019 11:56:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 11
+[26-Jul-2019 11:56:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:56:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 22
+[26-Jul-2019 11:56:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in C:\Apache24\htdocs\postbox\welcome.php on line 100
+[26-Jul-2019 11:56:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\welcome.php on line 101
+[26-Jul-2019 11:57:13 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 25
+[26-Jul-2019 11:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(25): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 11:57:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Apache24\htdocs\postbox\welcome.php on line 213
+[26-Jul-2019 11:57:54 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 11:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(24): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 11:58:10 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 11:58:21 UTC] PHP Notice:  Undefined variable: user in C:\Apache24\htdocs\postbox\welcome.php on line 157
+[26-Jul-2019 11:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUsername() on null in C:\Apache24\htdocs\postbox\welcome.php:157
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 157
+[26-Jul-2019 12:03:32 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in C:\Apache24\htdocs\postbox\welcome.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 21
+[26-Jul-2019 12:04:05 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 23
+[26-Jul-2019 12:04:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(23): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 12:07:19 UTC] PHP Notice:  Undefined variable: mysqli in C:\Apache24\htdocs\postbox\welcome.php on line 24
+[26-Jul-2019 12:07:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\Apache24\htdocs\postbox\app\User.php:83
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\welcome.php(24): User->getUser(NULL, 1)
+#1 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\User.php on line 83
+[26-Jul-2019 12:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Relation' not found in C:\Apache24\htdocs\postbox\welcome.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\Apache24\htdocs\postbox\welcome.php on line 34
+[26-Jul-2019 12:28:09 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 15
+[26-Jul-2019 12:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Relationship' not found in C:\Apache24\htdocs\postbox\app\Relation.php:99
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\includes\sent_friend_requests.php(3): Relation->getSentFriendRequests()
+#1 C:\Apache24\htdocs\postbox\welcome.php(210): include_once('C:\\Apache24\\htd...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\Relation.php on line 99
+[26-Jul-2019 12:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Relationship' not found in C:\Apache24\htdocs\postbox\app\Relation.php:99
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\includes\sent_friend_requests.php(3): Relation->getSentFriendRequests()
+#1 C:\Apache24\htdocs\postbox\welcome.php(210): include_once('C:\\Apache24\\htd...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\Relation.php on line 99
+[26-Jul-2019 12:34:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Relationship' not found in C:\Apache24\htdocs\postbox\app\Relation.php:99
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\includes\sent_friend_requests.php(3): Relation->getSentFriendRequests()
+#1 C:\Apache24\htdocs\postbox\welcome.php(210): include_once('C:\\Apache24\\htd...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\Relation.php on line 99
+[26-Jul-2019 12:34:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Relationship' not found in C:\Apache24\htdocs\postbox\app\Relation.php:99
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\includes\sent_friend_requests.php(3): Relation->getSentFriendRequests()
+#1 C:\Apache24\htdocs\postbox\welcome.php(210): include_once('C:\\Apache24\\htd...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\Relation.php on line 99
+[26-Jul-2019 12:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Relationship' not found in C:\Apache24\htdocs\postbox\app\Relation.php:99
+Stack trace:
+#0 C:\Apache24\htdocs\postbox\includes\sent_friend_requests.php(3): Relation->getSentFriendRequests()
+#1 C:\Apache24\htdocs\postbox\welcome.php(210): include_once('C:\\Apache24\\htd...')
+#2 {main}
+  thrown in C:\Apache24\htdocs\postbox\app\Relation.php on line 99
+[20-Aug-2019 15:01:58 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:01:58 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:01:58 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:02:23 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:02:23 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:02:23 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:02:25 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:02:25 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:02:25 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:02:26 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:02:26 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:02:26 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:03:06 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:03:07 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:03:07 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:04:23 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:04:23 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:06:25 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:31 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:31 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:31 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:06:31 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:06:32 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:32 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:32 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:06:32 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:06:33 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:33 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:33 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:06:33 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:06:34 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:35 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:35 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:35 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:06:35 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:06:36 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:37 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:38 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:38 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:38 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:06:39 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:06:40 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:40 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:06:40 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:06:40 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:12:10 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[20-Aug-2019 15:12:10 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\welcome.php on line 33
+[20-Aug-2019 15:12:10 UTC] PHP Notice:  Undefined index: uid in C:\Apache24\htdocs\postbox\includes\users.php on line 7
+[20-Aug-2019 15:14:01 UTC] PHP Notice:  Undefined index: email in C:\Apache24\htdocs\postbox\welcome.php on line 16
+[17-Jul-2020 16:23:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\Apache24\htdocs\postbox\config1.php on line 6
+[17-Jul-2020 16:23:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\postbox1.php on line 12
+[17-Jul-2020 16:23:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 13
+[17-Jul-2020 16:23:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 16
+[19-Jul-2020 16:25:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\Apache24\htdocs\postbox\config1.php on line 6
+[19-Jul-2020 16:25:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\postbox1.php on line 12
+[19-Jul-2020 16:25:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 13
+[19-Jul-2020 16:25:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 16
+[04-Mar-2022 11:56:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\Apache24\htdocs\postbox\config1.php on line 6
+[04-Mar-2022 11:56:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in C:\Apache24\htdocs\postbox\postbox1.php on line 12
+[04-Mar-2022 11:56:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 13
+[04-Mar-2022 11:56:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in C:\Apache24\htdocs\postbox\postbox1.php on line 16

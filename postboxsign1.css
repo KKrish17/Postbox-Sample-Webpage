@@ -1,0 +1,106 @@
+.header{
+	background-color:#ffb900a1;
+	padding-top:5;
+	padding-bottom:12;
+	width:100%;
+	font-family:calibri;
+}
+.header .headerimage{
+    margin-left: 35px;
+}
+.mid{
+	margin-top:-13px;
+}
+.mid .midside{
+    background-image: url(avatar.png);
+	height:85%;
+}
+.mid .create{
+	height:85%;
+}
+.mid .create .crt{
+	margin-top:-15;
+}
+.mid .create .free{
+	color:grey;
+	margin-top:-15;
+}
+.mid .create #first{
+	border-radius:8px;
+	border:2px solid #00ffa9a8;
+	padding:5px;
+	font-size:18;
+	width:235;
+	height:40;
+}
+.mid .create #last{
+	border-radius:8px;
+	border:2px solid #00ffa9a8;
+	padding:5px;
+	font-size:18;
+	width:235;
+	height:40;
+	margin-left:10;
+}
+.mid .create #mobile{
+	border-radius:8px;
+	border:2px solid #00ffa9a8;
+	padding:5px;
+	font-size:18;
+	width:480;
+	height:40;
+	margin-top:16;
+}
+.mid .create #pass{
+	border-radius:8px;
+	border:2px solid #00ffa9a8;
+	padding:5px;
+	font-size:18;
+	width:480;
+	height:40;
+	margin-top:16;
+}
+.mid .create .dob{
+	margin-top:-10;
+}
+.mid .create .dob #day{
+	border:2px solid #00ffa9a8;
+	height:32;
+	background-color:#9e9e9e47;
+}
+.mid .create .dob #month{
+	border:2px solid #00ffa9a8;
+	height:32;
+	margin-left:-6px;
+	background-color:#9e9e9e47;
+}
+.mid .create .dob #year{
+	border:2px solid #00ffa9a8;
+	height:32;
+	margin-left:-6px;
+	background-color:#9e9e9e47;
+}
+.mid .create .gender{
+	margin-top:22px;
+	font-size:20;
+}
+.mid .create .gender #female{
+	margin-left:20px;
+}
+.mid .create .terms{
+	margin-top:10px;
+}
+.mid .create .sign{
+	margin-top:15px;
+}
+.mid .create .sign #signup{
+	padding:6px 65px;
+	border:3px solid yellow;
+	color:white;
+	font-size:20px;
+	background-color:#ff0f0f;
+}
+.mid .midside{
+	font-size:25px;
+	text-align:center;
+}

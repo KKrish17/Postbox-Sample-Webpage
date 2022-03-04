@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PostBox</title>
+		<link rel="icon" href="postbox1.png">
+		<link rel="stylesheet" href="postbox.css" type="text/css">
+	</head>
+	<body>
+		<div id="sign">
+			<form method="get" action="postboxsign1.html">
+				<input type="submit" class="signup" value="SIGN UP">
+			</form>
+		</div>
+		
+		<div id="bod">
+			<span class="fst">
+				<div>
+					<img src="postbox.jpg" alt="Orkut" height="90" width="210" class="ork">
+				</div>
+				<div>
+                    <div class="parts">
+                            <div class="tex">
+                            <img src="friend.png" height="48" width="64"> Just like real life
+                            </div>
+                            <div class="stex">
+                            Share with all or separated groups of friends, controlling who sees what<br/>
+                            Connect with your best friend, your boss and your grandma with confidance.
+                            </div>
+                            <div class="tex">
+                            <img src="friend2.png" height="48" width="64"> Get the conversation started
+                            </div>
+                            <div class="stex">
+                            Chat, comment and talk with with each group of your friends for a conversation you<br/>
+                            control.
+                            </div>
+                            <div class="tex">
+                            <img src="friend3.png" height="48" width="64"> Have fun!
+                            </div>
+                            <div class="stex">
+                            Easily share photos , videos and news. Join communities to discuss topics of your<br/>
+                            interest.
+                            </div>
+                    </div>
+                </div>
+			</span>
+			
+			<form  action="postbox1.php" method="post">
+			<span class="lst">
+				<div class="signin">
+					Sign in
+				</div>
+				<div class="email">
+					<b>Email</b>
+					<br/><input name="email" type="email" class="emailbox" required>
+				</div>
+				<div class="pass">
+					<b>Password</b>
+					<br/><input name="password" type="password" class="passbox" required>
+				</div>
+				<div class="signi1">
+					<input type="submit" class="sign1box" value="Sign in"> 
+				</div>
+				<div class="forget">
+				<a href="#" style="text-decoration:none; color:#2970f3ed">Can't access your account?</a>
+				</div>
+			</span>
+			</form>
+		</div>
+		
+		<div class="footer">
+			All rights reserved &copy Postbox 2018 , Designed by <i><b>Krishnagopal Kar</b></i> , Computer Science Department , Cooch Behar Government Engineering College
+		</div>
+		<script>
+		var profmodal = document.getElementById('id01');
+
+		window.onclick = function(event) {
+			if (event.target == profmodal) {
+				profmodal.style.display = "none";
+			}
+		}
+		</script>
+	</body>
+</html>
